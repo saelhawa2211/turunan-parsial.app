@@ -1,5 +1,5 @@
 streamlit
-More actions
 sympy
 numpy
-matplotli
+matplotlib
+scipy

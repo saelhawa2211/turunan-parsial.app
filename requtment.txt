@@ -1,5 +1,2 @@
 streamlit
-sympy
-numpy
-matplotlib
-scipy
+graphviz
